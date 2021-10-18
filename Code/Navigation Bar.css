@@ -1,0 +1,84 @@
+body{
+    padding: 0%;
+    background-image: url(/imgs/Background\ img.jpg);
+    background-size: cover;
+    
+}
+/* a{
+    color: white;
+    background-color: yellow;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+   
+    
+    
+}
+.mdiv{
+    height: 100px;
+    width: auto;
+    background-color: tomato;
+    display: flex;
+    justify-content: center;
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.432);
+    width: auto;
+    height: 50px;
+    padding-top: 30px;
+    padding-left: 200px;
+
+}
+input{
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 100px;
+}
+.logo-img{
+    position: absolute;
+    left: 0%;
+    margin-left: 20px;
+}
+.d1{
+    display: flex;
+    justify-content: right;
+}
+.logo-class{
+    height: 80px;
+    width: 160px;
+} */
+
+
+
+
+.flexprop{
+    display: flex;
+    justify-content: center;
+
+}
+.d1{
+    /* background-color: blanchedalmond; */
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    /* opacity: 0.4; */
+    /* background-color: rgb(249,241,192); */
+    
+}
+.ng a{
+    /* margin: 0px 10px; */
+    padding: 9px;
+    color: crimson;
+    text-decoration: none;
+    background-color: blanchedalmond;
+    width: 10%;
+    
+}
+.logoimg{
+    height: 80px;
+    width: 160px;
+    
+    
+}
+

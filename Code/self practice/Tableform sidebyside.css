@@ -1,0 +1,35 @@
+body{
+    background-image: url(/imgs/pexels-george-desipris-748626.jpg);
+    background-size: cover;
+    color: white;
+
+}
+
+.main{
+    margin-top: 100px;
+    background: transparent;
+    border: 5px solid darkgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.sub1{
+    border: 5px solid cornsilk;
+}
+.sub2{
+    border: solid 5px whitesmoke;
+    margin-left: 10px;
+    
+}
+table{
+    border: #c5b387 solid;
+    
+}
+h3{
+    background-color: black;
+    width: 100px;
+}
+p{
+    background-color: black;
+}

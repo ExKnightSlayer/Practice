@@ -1,0 +1,18 @@
+.maindiv{
+    background-color: #6495ed;
+    color: darkblue;
+    border: 10px solid black;
+    padding: 20px 15px 20px 12px;
+    margin: 20px 13px 18px 11px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.subdiv{
+    background-color: darkmagenta;
+    color: darkseagreen;
+    border: 12px solid red;
+    padding: 10px 12px 15px 19px;
+
+}
+.parrent{}

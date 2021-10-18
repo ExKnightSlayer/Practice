@@ -1,0 +1,26 @@
+.dil{
+    background-color: yellowgreen ;
+    height: 500px;
+    display: flex;
+    margin: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+   
+}
+.subdiv
+{
+    background-color: teal;
+    width:  100px;
+    height: 100px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    
+    align-content: center;
+    
+    
+
+    
+}

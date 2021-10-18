@@ -1,0 +1,24 @@
+.main{
+    background-color: rgb(25, 184, 123);
+    width: 800px;
+    height: 800px;
+
+
+}
+.sub1{
+    background-color: rgb(177, 204, 26);
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    box-shadow:10px 20px 5px rgb(48, 5, 5);
+    
+
+}
+.sub2{
+    background-color: rgb(119, 61, 160);
+    width: 200px;
+    height: 200px;
+    box-shadow:20px 30px 20px silver;
+
+    
+}
